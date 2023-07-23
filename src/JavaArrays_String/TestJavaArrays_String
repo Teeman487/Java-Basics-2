@@ -1,0 +1,29 @@
+Java Arrays & Strings
+int a =10;
+a=20
+Array: is collection of elements of same data type
+int a[]= new int[5]
+2 types of arrays
+i.Single dimensional: only one row
+......................
+1) Declare an array: int a[] = new int[5] or int []a = new int [5]
+2) insert values into array
+3) Find size of an array
+4) Read values from an array: using Advanced for loop/Enhanced for loop/ for each loop(specially defined for Arrays & HashMap concepts)
+
+ii. Two/multi dimensonal: row & columns
+........................
+1) Declare an array:
+2) insert values into array
+3) Find size of an array(rows,columns)
+4) Read values from an array: using Advanced for loop/Enhanced for loop/ for each loop(specially defined for Arrays & HashMap concepts)
+
+int a [][]=new int[3][2];  // 3--> rows  2--> columns
+int [][]a[=new int[3][2];
+
+String: is a collection of characters.
+String s="welcome"
+
+String methods
+-------------
+s.length()
